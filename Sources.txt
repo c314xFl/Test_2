@@ -1,0 +1,15 @@
+
+.dP"Y8  dP"Yb  88   88 88""Yb  dP""b8 888888 .dP"Y8             888888 Yb  dP 888888 
+`Ybo." dP   Yb 88   88 88__dP dP   `" 88__   `Ybo."               88    YbdP    88   
+o.`Y8b Yb   dP Y8   8P 88"Yb  Yb      88""   o.`Y8b     .o.       88    dPYb    88   
+8bodP'  YbodP  `YbodP' 88  Yb  YboodP 888888 8bodP'     `"'       88   dP  Yb   88   
+
+Sites I visited to read about something, and I had some help using AI for this
+project
+------------------------------------------------------------------------------------
+https://www.w3schools.com/python/ref_list_sort.asp
+https://www.w3schools.com/python/ref_string_replace.asp
+https://www.geeksforgeeks.org/chr-in-python/
+https://www.geeksforgeeks.org/python-reverse-sort-a-string/
+https://www.geeksforgeeks.org/python-random-sample-function/
+------------------------------------------------------------------------------------
